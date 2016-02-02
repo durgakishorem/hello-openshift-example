@@ -1,6 +1,8 @@
 Hello, OpenShift!
 -----------------
 
+NOTE - this was taken from https://openshift/origin/examples/hello-openshift for version-locking purposes. This is not an up-to-date repository.
+
 This example will serve an HTTP response of "Hello OpenShift!".
 
     $ oc create -f examples/hello-openshift/hello-pod.json
